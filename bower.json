@@ -1,0 +1,17 @@
+{
+  "name": "backend-dojo",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "kodama <shouhei.kodama@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
